@@ -4,8 +4,8 @@
 <br>
 <h2>Resultados do projeto:</h2>
 <br>
-<img src="https://github.com/gGtEriKk/New-challenge-CSS-pt.1/blob/master/assets/print-projeto-PC.png?raw=true" alt="imagem do projeto no computador" width: 100px; height: 100px; display: inline;>
-<img src="https://github.com/gGtEriKk/New-challenge-CSS-pt.1/blob/master/assets/print-projeto-celular.png?raw=true" alt="imagem de projeto no celular" width: 100px; height: 100px display: inline;>
+<img src="https://github.com/gGtEriKk/New-challenge-CSS-pt.1/blob/master/assets/print-projeto-PC.png?raw=true" alt="imagem do projeto no computador" width: 100px; height: 100px; display: inline-block;>
+<img src="https://github.com/gGtEriKk/New-challenge-CSS-pt.1/blob/master/assets/print-projeto-celular.png?raw=true" alt="imagem de projeto no celular" width: 100px; height: 100px display: inline-block;>
 <br>
 <br>
 <h2>Tecnologias utilizadas:</h2>
