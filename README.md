@@ -25,3 +25,5 @@
           </sub>
       </a>
 </table>
+
+:point_right:<a href="https://ggterikk.github.io/New-challenge-CSS-pt.1/">Clique para ver o resultado:</a>
